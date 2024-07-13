@@ -12,7 +12,7 @@ Forkify é uma aplicação web fácil de usar que permite aos usuários buscar r
 
 ## Tecnologias usadas
 - JavaScript
-- Sass
 - HTML
 - CSS
+- Scss
 - Parcel
